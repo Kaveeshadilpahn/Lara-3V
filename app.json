@@ -1,6 +1,6 @@
 {
   "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
+  "description": "LARA-MD Whatsapp bot © · · ·",
   "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "rJ5EyZgR#aQPooqdLu83QPyHAMHazDBxIo7MqUafxPFnSluqYU8Q",
       "required": true,
       "value": ""
     },  
@@ -16,7 +16,7 @@
     "OWNER_NUMBER": {
       "description": "Set your owner number",
       "required": true,
-      "value": "94779062397"
+      "value": "94763841211"
     },
 
     "DEV": {
@@ -34,7 +34,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
@@ -76,13 +76,13 @@
     "AUTO_BIO": {
       "description": "Make it true if you want bot auto bio",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "AUTO_TYPING": {
@@ -112,13 +112,13 @@
     "ANTI_LINK": {
       "description": "Group link shear not allowed and kick out user",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "ANTI_BAD": {
       "description": "Bad word not allowed",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "READ_MESSAGE": {
@@ -136,7 +136,7 @@
     "ANTI_DELETE": {
       "description": "Delete massages show",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     
     "INBOX_BLOCK": {
